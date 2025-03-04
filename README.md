@@ -11,6 +11,8 @@ Tools We Use-
 Figma (for UI/UX design)
 VS Code, GitHub (for development)
 
+![Image](https://github.com/user-attachments/assets/8a49d69d-5695-4b7a-a490-7d0cc4f39ed9)
+
 ---------------------
 ## Task of the Week- Research  
 
